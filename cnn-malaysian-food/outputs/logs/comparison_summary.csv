@@ -1,0 +1,7 @@
+Metric,Custom CNN,ResNet-50
+Test Accuracy (%),57.51,93.66
+Macro F1,0.5852,0.9359
+Weighted F1,0.5538,0.9366
+Training Time (min),11.6,9.3
+Total Parameters,"4,713,136","23,540,816"
+Best Val Acc (%),61.74,94.13
